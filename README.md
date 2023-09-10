@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhashit Sathe</h1>
 <h3 align="center">A passPassionate DevOps & High Performance Computing enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashit10&label=Profile%20views&color=0e75b6&style=flat" alt="subhashit10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhashit10" alt="subhashit10" /></a> </p>
-
 - 🔭 I’m currently working on [DevSecOps SDLC](https://ggithub.com/Subhashit10/DevSecOps)
 
 <h3 align="left">Connect with me:</h3>
